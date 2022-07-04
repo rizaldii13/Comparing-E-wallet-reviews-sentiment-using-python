@@ -2,7 +2,7 @@
 A sentiment analysis of e-wallet (DANA, Link Aja, and OVO) reviews on Google Play Store and Apple App Store using python
 
 ## Introduction
-The purpose of this project is to identify which e-wallet has the most positive sentiment on both app store, identify the difference of reviews sentiment on Google Play Store and Apple App Store, find the most discussed review topics, and to test the accuracy of the LSTM model. 
+This project is done to complete the final exam of my university course called 'Kapita Selekta Analitikal Data'. The purpose of this project is to identify which e-wallet has the most positive sentiment on both app store, identify the difference of reviews sentiment on Google Play Store and Apple App Store, find the most discussed review topics, and to test the accuracy of the LSTM model. 
 
 The dataset contains 25616 rows of reviews from 3 e-wallet and both app store. The data is collected using python package (https://github.com/cowboy-bebug/app-store-scraper) and (https://github.com/JoMingyu/google-play-scraper). The sentiment of the data is labelled using 2 methods, the first one is using the rating of the review as the label and the other one is using an Indonesian sentiment lexicon (https://github.com/fajri91/InSet). The data is then analysed using the same LSTM model to both labelling methods. The last thing to do is creating a visualization of the data based on the best labelling method.
 
