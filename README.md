@@ -1,5 +1,5 @@
-# E-Wallet Sentiment Analysis with Python
-A sentiment analysis of e-wallet (DANA, Link Aja, and OVO) reviews on Google Play Store and Apple App Store using python
+# E-Wallet Sentiment Analysis with Long Short-Term Memory (LSTM)
+A sentiment analysis of e-wallet (DANA, Link Aja, and OVO) reviews on Google Play Store and Apple App Store using LSTM model.
 
 ## Introduction
 This project is done to complete the final exam of my university course called 'Kapita Selekta Analitikal Data'. The purpose of this project is to identify which e-wallet has the most positive sentiment on both app store, identify the difference of reviews sentiment on Google Play Store and Apple App Store, find the most discussed review topics, and to test the accuracy of the LSTM model. 
